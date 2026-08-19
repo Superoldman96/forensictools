@@ -1,6 +1,47 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [1.4] - 2026-08-19
+
+### Added
+- vol3 (CLI)
+- Wireshark
+- Firefox
+- Triager
+- uareport
+- CSSC
+- MXRay
+- bmc-tools
+- PyWMIPersistenceFinder
+- RdpCacheStitcher
+- Dev-C++
+- pdf-tools
+- nasm
+- VT CLI
+- Hindsight
+- Process Hacker
+- Regshot
+- fakenet-ng
+- pyinstxtractor-ng
+- JD-GUI
+- Loki-RS
+- Mobile forensics:
+  - adb
+  - scrcpy
+  - ALEAPP
+  - apkstudio
+  - jadx
+  - iLEAPP
+- macOS analysis:
+  - mac_apt
+  - macos-UnifiedLogs
+  - spotlight_parser
+  - DSStoreParser
+  - FSEventsParser
+
+### Updates
+- Major updates for various tools.
+
 ## [1.3] - 2026-01-12
 
 ### Added
